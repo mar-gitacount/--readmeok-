@@ -2,7 +2,7 @@ import subprocess
 
 # 任意の値をnumに代入
 
-num = 391
+num = 414
 
 # numが整数であるか確認
 if isinstance(num, int):
